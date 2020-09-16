@@ -1,0 +1,4 @@
+org/demo/app/AppComponent.class
+org/demo/app/RemoveFlowRules.class
+org/demo/app/AppCommand.class
+org/demo/app/SomeInterface.class
